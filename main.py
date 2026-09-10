@@ -9,3 +9,4 @@ if __name__ == "__main__":
     user_input = input("Enter a string: ")
     print(get_vowels(user_input))
 
+# this is a comment added to the file
